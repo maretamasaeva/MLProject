@@ -1,2 +1,3 @@
 # MLProject
-Exam project voor Machine Learning I &amp; II
+Exam project for Machine Learning I &amp; II, using the Office Dataset! 
+By Mareta Masaeva
